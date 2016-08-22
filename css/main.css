@@ -1,0 +1,24 @@
+.caja-exterior1, .caja-exterior2{
+	width: 400px;
+	height: 280px;
+	border: 25px solid yellow;
+}
+
+.contenido1, .contenido2{  
+	width: 200px;
+	margin: auto;	
+	padding-top: 50px;
+}
+
+.caja-exterior2{
+	display: inline-block;
+	float: right;
+}
+
+.contenido1{ 
+	text-align: center;
+}
+
+.contenido2{
+	text-align: left;
+}
